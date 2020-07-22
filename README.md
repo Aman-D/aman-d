@@ -6,7 +6,7 @@
 
 - 📫 How to reach me <b>dhurweyrcok@gmail.com</b>
 
-- <p align="center">
+<p align="center">
 <a href="https://linkedin.com/in/aman-dhurwey-3a9040187" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aman-dhurwey-3a9040187" height="20" width="20" /></a>
 </p>
 
