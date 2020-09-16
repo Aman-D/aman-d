@@ -22,8 +22,8 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/aman-dhurwey-3a9040187/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/cuxy_buxy/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:dhurweyrock@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/aman-dhurwey-3a9040187/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aman%20Dhurwey-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/cuxy_buxy/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-cuxy_buxy__-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:dhurweyrock@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-dhurweyrock@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
