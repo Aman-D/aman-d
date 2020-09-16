@@ -17,7 +17,7 @@
 
 <br/>
 
-[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aman-D8&show_icons=true)](https://github.com/Aman-D)
+[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aman-D&show_icons=true)](https://github.com/Aman-D)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
